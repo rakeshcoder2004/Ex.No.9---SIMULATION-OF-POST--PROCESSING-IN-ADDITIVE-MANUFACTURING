@@ -32,6 +32,10 @@
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## OUTPUT :
+![image](https://github.com/rakeshcoder2004/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121490890/16e74cdf-f9a9-4a2f-86ff-44c382deb080)
+![image](https://github.com/rakeshcoder2004/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121490890/4948f9b6-a334-485f-9838-aacad024e94c)
+
+
 
 ## Support Removal Process
 ![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
@@ -46,9 +50,11 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/rakeshcoder2004/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121490890/4e270e32-523b-419b-b55d-001c9c36f31e)
 
-### Name:
-### Register Number:
+
+### Name:RAKESH.V
+### Register Number:212222110036
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
